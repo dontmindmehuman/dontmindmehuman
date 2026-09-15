@@ -16,37 +16,37 @@
 
 ## 🚀 About Me
 
-> *"Quiet spaces, clear code, and constant learning."*
+> *"I prefer quiet spaces, clean code, and continuous learning."*
 
-* 🎓 **Academic:** Grade 9 student building core foundations in computer science.
-* 🐍 **Current Journey:** Deep-diving into Python data structures, list operations, and algorithms.
-* 🎧 **Off-Screen:** Shy, loves listening to music, singing, and enjoying quiet environments.
-* 🌶️ **Fun Fact:** Driven by music, peaceful focus, and spicy food!
+* 🎓 **Education:** I am a Grade 9 student working hard to build a solid foundation in computer science.
+* 🐍 **Current Focus:** I am actively practicing Python, learning data structures, and improving my logic.
+* 🎧 **Personal Life:** I am a quiet person who enjoys listening to music, singing, and working in peaceful environments.
+* 🌶️ **Fun Fact:** I work best when I am listening to good music in a quiet room with some spicy food!
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-| Category | Skills & Tools | Proficiency / Status |
+| Category | Skills & Tools | Current Progress |
 | :--- | :--- | :--- |
-| **Languages** | `Python` | █░░░░░░░░░ *(Learning)* |
-| **Tools & OS** | `Git`, `GitHub`, `Linux` | █░░░░░░░░░ *(Foundations)* |
-| **Practice** | `Touch Typing`, `Home Row` | █░░░░░░░░░ *(In Progress)* |
+| **Languages** | `Python` | █░░░░░░░░░ *(Learning Fundamentals)* |
+| **Tools & OS** | `Git`, `GitHub`, `Linux` | █░░░░░░░░░ *(Basic Knowledge)* |
+| **Practice** | `Touch Typing`, `Home Row` | █░░░░░░░░░ *(Improving Daily)* |
 
 ---
 
-## 🎯 Current Goals & Progress
+## 🎯 Current Goals
 
-* [x] **Python Basics:** Mastered core list concepts and methods like `.extend()`
-* [/] **Keyboard Speed:** Practicing touch-typing accuracy on home row keys
-* [ ] **CLI Projects:** Build interactive command-line interface applications
-* [ ] **Open Source:** Contribute to beginner-friendly student repositories
+* [x] **Python Basics:** Mastered key list methods like `.extend()` and basic operations
+* [/] **Typing Speed:** Improving my touch-typing accuracy and speed on home row keys
+* [ ] **Mini Projects:** Build useful command-line (CLI) tools in Python
+* [ ] **Open Source:** Collaborate on beginner-friendly open-source projects
 
 ---
 
-## 📊 Activity Summary
+## 📊 Summary
 
 ```text
-Languages Used : Python 
-Primary Editor : VS Code / Terminal
-Focus Area     : Python Fundamentals & Data Logic
+Primary Language : Python
+Favorite Tools   : VS Code & Terminal
+Core Goal        : Become proficient in programming step by step
