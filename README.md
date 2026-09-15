@@ -1,94 +1,52 @@
-# Hi there, I'm Emanuel 👋
-
+<!-- HEADER / ASCII ART -->
 <div align="center">
-*Grade 9 Student & Aspiring Developer from Nepal* 🇳🇵
 
-[![Typing Status](https://img.shields.io/badge/Focus-Python%20%26%20Programming%20Foundations-blue?style=for-the-badge&logo=python)](https://github.com/dontmindmehuman)
-[![Location](https://img.shields.io/badge/Location-Lalitpur%2C%20Nepal-red?style=for-the-badge&logo=googlemaps)](https://github.com/dontmindmehuman)
+# 💻 Emanuel Tamang
+*Grade 9 Student & Aspiring Developer from Lalitpur, Nepal* 🇳🇵
+
+---
+
+[![Focus](https://img.shields.io/badge/Focus-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dontmindmehuman)
+[![Location](https://img.shields.io/badge/Location-Lalitpur,%20Nepal-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dontmindmehuman)
+[![Vibe](https://img.shields.io/badge/Vibe-Music%20%26%20Quiet%20Spaces-purple?style=for-the-badge)](https://github.com/dontmindmehuman)
+
+---
 
 </div>
 
----
+## 🚀 About Me
 
-### 🚀 About Me
+> *"Quiet spaces, clear code, and constant learning."*
 
-- 🎓 **Student:** Grade 9 student building a strong foundation in computer science and programming.
-- 🐍 **Currently Learning:** Python fundamentals, data structures, and keyboard fluency.
-- 🎧 **Off-Screen Interests:** Shy, loves listening to music, singing songs, and staying in quiet environments.
-- 🌶️ **Fun Fact:** Fueled by good tunes, quiet spaces, and spicy food!
-
----
-
-### 🛠️ Tech & Tools
-
-<div align="center">
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Python` |
-| **Concepts** | `Data Structures (Lists)`, `Basic Algorithms` |
-| **Environment** | `Git`, `GitHub` |
-
-</div>
+* 🎓 **Academic:** Grade 9 student building core foundations in computer science.
+* 🐍 **Current Journey:** Deep-diving into Python data structures, list operations, and algorithms.
+* 🎧 **Off-Screen:** Shy, loves listening to music, singing, and enjoying quiet environments.
+* 🌶️ **Fun Fact:** Driven by music, peaceful focus, and spicy food!
 
 ---
 
-### 🎯 Current Focus & Goals
+## 🛠️ Tech Stack & Skills
 
-- [x] Mastering core Python concepts & list manipulation
-- [/] Improving touch-typing accuracy and speed
-- [ ] Building interactive CLI tools and mini-projects
-- [ ] Contributing to open-source student projects
-
----
-
-<div align="center">
-
-⭐ *“Quiet spaces, clear code, and constant learning.”* ⭐
-
-</div>*Grade 9 Student & Aspiring Developer from Nepal* 🇳🇵
-
-[![Typing Status](https://img.shields.io/badge/Focus-Python%20%26%20Programming%20Foundations-blue?style=for-the-badge&logo=python)](https://github.com/dontmindmehuman)
-[![Location](https://img.shields.io/badge/Location-Lalitpur%2C%20Nepal-red?style=for-the-badge&logo=googlemaps)](https://github.com/dontmindmehuman)
-
-</div>
+| Category | Skills & Tools | Proficiency / Status |
+| :--- | :--- | :--- |
+| **Languages** | `Python` | █░░░░░░░░░ *(Learning)* |
+| **Tools & OS** | `Git`, `GitHub`, `Linux` | █░░░░░░░░░ *(Foundations)* |
+| **Practice** | `Touch Typing`, `Home Row` | █░░░░░░░░░ *(In Progress)* |
 
 ---
 
-### 🚀 About Me
+## 🎯 Current Goals & Progress
 
-- 🎓 **Student:** Grade 9 student building a strong foundation in computer science and programming.
-- 🐍 **Currently Learning:** Python fundamentals, data structures, and keyboard fluency.
-- 🎧 **Off-Screen Interests:** Shy, loves listening to music, singing songs, and staying in quiet environments.
-- 🌶️ **Fun Fact:** Fueled by good tunes, quiet spaces, and spicy food!
-
----
-
-### 🛠️ Tech & Tools
-
-<div align="center">
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Python` |
-| **Concepts** | `Data Structures (Lists)`, `Basic Algorithms` |
-| **Environment** | `Git`, `GitHub` |
-
-</div>
+* [x] **Python Basics:** Mastered core list concepts and methods like `.extend()`
+* [/] **Keyboard Speed:** Practicing touch-typing accuracy on home row keys
+* [ ] **CLI Projects:** Build interactive command-line interface applications
+* [ ] **Open Source:** Contribute to beginner-friendly student repositories
 
 ---
 
-### 🎯 Current Focus & Goals
+## 📊 Activity Summary
 
-- [x] Mastering core Python concepts & list manipulation
-- [/] Improving touch-typing accuracy and speed
-- [ ] Building interactive CLI tools and mini-projects
-- [ ] Contributing to open-source student projects
-
----
-
-<div align="center">
-
-⭐ *“Quiet spaces, clear code, and constant learning.”* ⭐
-
-</div>
+```text
+Languages Used : Python 
+Primary Editor : VS Code / Terminal
+Focus Area     : Python Fundamentals & Data Logic
